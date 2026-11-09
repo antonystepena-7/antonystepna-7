@@ -8,12 +8,15 @@ I have always been curious about what happens behind the screens and how technol
 
 ### Areas of Interest
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20%26%20API%20Security-D97706?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital%20Forensics-6E40C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GRC-238636?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/Web%20%26%20API%20Security-161B22?style=flat-square&logo=owasp&logoColor=58A6FF" />
 </p>
-
-<p align="center">
-  <i>Curiosity • Continuous Learning • Cybersecurity</i>
+<p>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-161B22?style=flat-square&logoColor=A78BFA" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Governance%2C%20Risk%20%26%20Compliance-161B22?style=flat-square&logoColor=3FB950" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Dark%20Web%20Research-161B22?style=flat-square&logoColor=BC8CFF" />
 </p>
