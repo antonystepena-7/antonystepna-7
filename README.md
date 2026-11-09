@@ -9,14 +9,14 @@ I have always been curious about what happens behind the screens and how technol
 ### Areas of Interest
 
 <p>
-  <img src="https://img.shields.io/badge/Web%20%26%20API%20Security-161B22?style=flat-square&logo=owasp&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Web%20%26%20API%20Security-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Web and API Security" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Digital%20Forensics-161B22?style=flat-square&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-161B22?style=flat-square&labelColor=161B22&color=A78BFA" alt="Digital Forensics" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Governance%2C%20Risk%20%26%20Compliance-161B22?style=flat-square&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/Governance%2C%20Risk%20%26%20Compliance-161B22?style=flat-square&labelColor=161B22&color=3FB950" alt="Governance, Risk and Compliance" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Dark%20Web%20Research-161B22?style=flat-square&logoColor=BC8CFF" />
+  <img src="https://img.shields.io/badge/Dark%20Web%20Research-161B22?style=flat-square&labelColor=161B22&color=BC8CFF" alt="Dark Web Research" />
 </p>
